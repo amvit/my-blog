@@ -1,0 +1,41 @@
+#world {
+    text-align: center;
+    color: aqua;
+}
+
+body {
+    background-color: blue;
+}
+
+#plants {
+    width: 350px;
+    height: 350px;
+}
+#football {
+    width: 350px;
+    height: 350px;
+}
+#tennis {
+    width: 350px;
+    height: 350px;
+}
+#boxing {
+    width: 350px;
+    height: 350px;
+}
+#kabbadi {
+    width: 350px;
+    height: 350px;
+}
+#wrestling {
+    width: 350px;
+    height: 350px;
+}
+#badminton {
+    width: 350px;
+    height: 350px;
+}
+#cricket {
+    width: 350px;
+    height: 350px;
+}
